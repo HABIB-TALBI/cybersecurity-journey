@@ -1,6 +1,6 @@
-# Mohamed El Habib Talbi — Cybersecurity Portfolio
+# Habib Talbi — Cybersecurity Portfolio
 
-Aspiring cybersecurity analyst on a one-year plan: earn ISC2 Certified in Cybersecurity (CC) and CompTIA Security+, build hands-on labs, and land a first remote security role. Based in Winnipeg, Canada — targeting remote roles, then Montreal.
+Aspiring cybersecurity analyst working toward my first security role: earning ISC2 Certified in Cybersecurity (CC) and CompTIA Security+, building hands-on labs. Based in Winnipeg, Canada — targeting remote roles, and open to Montreal, Toronto, and Vancouver.
 
 ## 🎯 Current focus
 
